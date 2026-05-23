@@ -23,6 +23,28 @@ def haversine(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
 def build_distance_matrix(locations: List[str], coords: Dict[str, Tuple[float, float]]) -> np.ndarray:
     n = len(locations)
     matrix = np.zeros((n, n))
+    
+    try:
+        from api.gmaps import get_distance_matrix
+    except ImportError:
+        get_distance_matrix = None
+        
+    if get_distance_matrix is not None:
+        origins_coords = [coords[loc] for loc in locations]
+        destinations_coords = [coords[loc] for loc in locations]
+        dm_resp = get_distance_matrix(origins_coords, destinations_coords)
+        
+        if dm_resp.get("status") == "OK" and "rows" in dm_resp:
+            for i in range(n):
+                elements = dm_resp["rows"][i]["elements"]
+                for j in range(n):
+                    if i != j:
+                        try:
+                            matrix[i][j] = elements[j]["distance"]["value"] / 1000.0
+                        except (KeyError, IndexError):
+                            matrix[i][j] = haversine(*origins_coords[i], *destinations_coords[j])
+            return matrix
+
     for i in range(n):
         for j in range(n):
             if i != j:
