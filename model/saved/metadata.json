@@ -1,0 +1,48 @@
+{
+  "time_model": {
+    "mae": 0.0007,
+    "r2": 1.0
+  },
+  "rank_model": {
+    "accuracy": 1.0
+  },
+  "n_clusters": 5,
+  "n_drivers": 12,
+  "n_locations": 173,
+  "features": {
+    "time": [
+      "leg_distance_km",
+      "expected_leg_min",
+      "from_hour",
+      "traffic_num",
+      "day_of_week_num",
+      "is_weekend",
+      "driver_efficiency",
+      "driver_avg_speed",
+      "from_dist_center",
+      "to_dist_center",
+      "from_store_density",
+      "to_store_density"
+    ],
+    "rank": [
+      "stop_progress",
+      "dist_from_prev",
+      "cumulative_dist",
+      "visit_hour",
+      "traffic_num",
+      "day_of_week_num",
+      "is_weekend",
+      "dist_from_center",
+      "store_density",
+      "loc_popularity",
+      "driver_avg_speed",
+      "driver_avg_stops",
+      "driver_efficiency",
+      "hour_sin",
+      "hour_cos",
+      "dow_sin",
+      "dow_cos",
+      "stop_order"
+    ]
+  }
+}

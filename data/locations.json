@@ -1,0 +1,1213 @@
+[
+  {
+    "name": "Navrangpura_Store",
+    "latitude": 23.0395,
+    "longitude": 72.5603,
+    "city": "Ahmedabad",
+    "area": "Navrangpura"
+  },
+  {
+    "name": "CG_Road_Outlet",
+    "latitude": 23.0322,
+    "longitude": 72.5562,
+    "city": "Ahmedabad",
+    "area": "CG Road"
+  },
+  {
+    "name": "Satellite_Branch",
+    "latitude": 23.0258,
+    "longitude": 72.5099,
+    "city": "Ahmedabad",
+    "area": "Satellite"
+  },
+  {
+    "name": "Vastrapur_Shop",
+    "latitude": 23.0351,
+    "longitude": 72.5297,
+    "city": "Ahmedabad",
+    "area": "Vastrapur"
+  },
+  {
+    "name": "Bodakdev_Center",
+    "latitude": 23.0487,
+    "longitude": 72.5155,
+    "city": "Ahmedabad",
+    "area": "Bodakdev"
+  },
+  {
+    "name": "Prahlad_Nagar_Store",
+    "latitude": 23.0177,
+    "longitude": 72.5108,
+    "city": "Ahmedabad",
+    "area": "Prahlad Nagar"
+  },
+  {
+    "name": "Maninagar_Outlet",
+    "latitude": 22.9993,
+    "longitude": 72.601,
+    "city": "Ahmedabad",
+    "area": "Maninagar"
+  },
+  {
+    "name": "Ghatlodia_Branch",
+    "latitude": 23.0796,
+    "longitude": 72.5611,
+    "city": "Ahmedabad",
+    "area": "Ghatlodia"
+  },
+  {
+    "name": "Chandkheda_Store",
+    "latitude": 23.1146,
+    "longitude": 72.5877,
+    "city": "Ahmedabad",
+    "area": "Chandkheda"
+  },
+  {
+    "name": "Motera_Shop",
+    "latitude": 23.1014,
+    "longitude": 72.5872,
+    "city": "Ahmedabad",
+    "area": "Motera"
+  },
+  {
+    "name": "Naroda_Center",
+    "latitude": 23.0715,
+    "longitude": 72.6536,
+    "city": "Ahmedabad",
+    "area": "Naroda"
+  },
+  {
+    "name": "Odhav_Outlet",
+    "latitude": 22.9979,
+    "longitude": 72.646,
+    "city": "Ahmedabad",
+    "area": "Odhav"
+  },
+  {
+    "name": "Vatva_Store",
+    "latitude": 22.9641,
+    "longitude": 72.6385,
+    "city": "Ahmedabad",
+    "area": "Vatva"
+  },
+  {
+    "name": "Lambha_Branch",
+    "latitude": 22.9467,
+    "longitude": 72.5745,
+    "city": "Ahmedabad",
+    "area": "Lambha"
+  },
+  {
+    "name": "Narol_Shop",
+    "latitude": 22.9582,
+    "longitude": 72.6205,
+    "city": "Ahmedabad",
+    "area": "Narol"
+  },
+  {
+    "name": "Isanpur_Store",
+    "latitude": 22.9754,
+    "longitude": 72.6186,
+    "city": "Ahmedabad",
+    "area": "Isanpur"
+  },
+  {
+    "name": "Nikol_Center",
+    "latitude": 23.0286,
+    "longitude": 72.6387,
+    "city": "Ahmedabad",
+    "area": "Nikol"
+  },
+  {
+    "name": "Vastral_Outlet",
+    "latitude": 23.0189,
+    "longitude": 72.6607,
+    "city": "Ahmedabad",
+    "area": "Vastral"
+  },
+  {
+    "name": "Rakhial_Branch",
+    "latitude": 23.0494,
+    "longitude": 72.6266,
+    "city": "Ahmedabad",
+    "area": "Rakhial"
+  },
+  {
+    "name": "Bapunagar_Store",
+    "latitude": 23.0441,
+    "longitude": 72.6204,
+    "city": "Ahmedabad",
+    "area": "Bapunagar"
+  },
+  {
+    "name": "Amraiwadi_Shop",
+    "latitude": 23.0257,
+    "longitude": 72.6216,
+    "city": "Ahmedabad",
+    "area": "Amraiwadi"
+  },
+  {
+    "name": "Gomtipur_Center",
+    "latitude": 23.0415,
+    "longitude": 72.6397,
+    "city": "Ahmedabad",
+    "area": "Gomtipur"
+  },
+  {
+    "name": "Khadia_Outlet",
+    "latitude": 23.0279,
+    "longitude": 72.5952,
+    "city": "Ahmedabad",
+    "area": "Khadia"
+  },
+  {
+    "name": "Jamalpur_Store",
+    "latitude": 23.022,
+    "longitude": 72.59,
+    "city": "Ahmedabad",
+    "area": "Jamalpur"
+  },
+  {
+    "name": "Dariapur_Branch",
+    "latitude": 23.0357,
+    "longitude": 72.584,
+    "city": "Ahmedabad",
+    "area": "Dariapur"
+  },
+  {
+    "name": "Mirzapur_Shop",
+    "latitude": 23.035,
+    "longitude": 72.59,
+    "city": "Ahmedabad",
+    "area": "Mirzapur"
+  },
+  {
+    "name": "Kalupur_Center",
+    "latitude": 23.0262,
+    "longitude": 72.5963,
+    "city": "Ahmedabad",
+    "area": "Kalupur"
+  },
+  {
+    "name": "Shahpur_Outlet",
+    "latitude": 23.0302,
+    "longitude": 72.5847,
+    "city": "Ahmedabad",
+    "area": "Shahpur"
+  },
+  {
+    "name": "Paldi_Store",
+    "latitude": 23.0098,
+    "longitude": 72.5667,
+    "city": "Ahmedabad",
+    "area": "Paldi"
+  },
+  {
+    "name": "Ambawadi_Branch",
+    "latitude": 23.0329,
+    "longitude": 72.5471,
+    "city": "Ahmedabad",
+    "area": "Ambawadi"
+  },
+  {
+    "name": "Ellisbridge_Shop",
+    "latitude": 23.024,
+    "longitude": 72.568,
+    "city": "Ahmedabad",
+    "area": "Ellisbridge"
+  },
+  {
+    "name": "Memnagar_Center",
+    "latitude": 23.0487,
+    "longitude": 72.5449,
+    "city": "Ahmedabad",
+    "area": "Memnagar"
+  },
+  {
+    "name": "Thaltej_Outlet",
+    "latitude": 23.0566,
+    "longitude": 72.5013,
+    "city": "Ahmedabad",
+    "area": "Thaltej"
+  },
+  {
+    "name": "Shilaj_Store",
+    "latitude": 23.0603,
+    "longitude": 72.4871,
+    "city": "Ahmedabad",
+    "area": "Shilaj"
+  },
+  {
+    "name": "Bopal_Branch",
+    "latitude": 23.0344,
+    "longitude": 72.4618,
+    "city": "Ahmedabad",
+    "area": "Bopal"
+  },
+  {
+    "name": "Ghuma_Shop",
+    "latitude": 23.0152,
+    "longitude": 72.478,
+    "city": "Ahmedabad",
+    "area": "Ghuma"
+  },
+  {
+    "name": "Manipur_Center",
+    "latitude": 23.005,
+    "longitude": 72.498,
+    "city": "Ahmedabad",
+    "area": "Manipur"
+  },
+  {
+    "name": "Sarkhej_Outlet",
+    "latitude": 22.9965,
+    "longitude": 72.52,
+    "city": "Ahmedabad",
+    "area": "Sarkhej"
+  },
+  {
+    "name": "Juhapura_Store",
+    "latitude": 23.0039,
+    "longitude": 72.5393,
+    "city": "Ahmedabad",
+    "area": "Juhapura"
+  },
+  {
+    "name": "Vejalpur_Branch",
+    "latitude": 22.9939,
+    "longitude": 72.5502,
+    "city": "Ahmedabad",
+    "area": "Vejalpur"
+  },
+  {
+    "name": "Jodhpur_Shop",
+    "latitude": 23.0137,
+    "longitude": 72.5212,
+    "city": "Ahmedabad",
+    "area": "Jodhpur"
+  },
+  {
+    "name": "Ambli_Center",
+    "latitude": 23.0437,
+    "longitude": 72.4828,
+    "city": "Ahmedabad",
+    "area": "Ambli"
+  },
+  {
+    "name": "Shela_Outlet",
+    "latitude": 23.0269,
+    "longitude": 72.4651,
+    "city": "Ahmedabad",
+    "area": "Shela"
+  },
+  {
+    "name": "Bavla_Store",
+    "latitude": 22.9346,
+    "longitude": 72.3752,
+    "city": "Ahmedabad",
+    "area": "Bavla"
+  },
+  {
+    "name": "Sanand_Branch",
+    "latitude": 22.9926,
+    "longitude": 72.375,
+    "city": "Ahmedabad",
+    "area": "Sanand"
+  },
+  {
+    "name": "Vinzol_Shop",
+    "latitude": 22.9772,
+    "longitude": 72.6575,
+    "city": "Ahmedabad",
+    "area": "Vinzol"
+  },
+  {
+    "name": "Hathijan_Center",
+    "latitude": 22.954,
+    "longitude": 72.6527,
+    "city": "Ahmedabad",
+    "area": "Hathijan"
+  },
+  {
+    "name": "Aslali_Outlet",
+    "latitude": 22.9296,
+    "longitude": 72.6364,
+    "city": "Ahmedabad",
+    "area": "Aslali"
+  },
+  {
+    "name": "Dholka_Store",
+    "latitude": 22.7186,
+    "longitude": 72.4683,
+    "city": "Ahmedabad",
+    "area": "Dholka"
+  },
+  {
+    "name": "Dhandhuka_Branch",
+    "latitude": 22.392,
+    "longitude": 72.01,
+    "city": "Ahmedabad",
+    "area": "Dhandhuka"
+  },
+  {
+    "name": "Viramgam_Shop",
+    "latitude": 23.1169,
+    "longitude": 72.0341,
+    "city": "Ahmedabad",
+    "area": "Viramgam"
+  },
+  {
+    "name": "Detroj_Center",
+    "latitude": 23.3182,
+    "longitude": 72.3074,
+    "city": "Ahmedabad",
+    "area": "Detroj"
+  },
+  {
+    "name": "Mandal_Outlet",
+    "latitude": 23.2439,
+    "longitude": 72.3021,
+    "city": "Ahmedabad",
+    "area": "Mandal"
+  },
+  {
+    "name": "Mumbai_Andheri_Store",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "city": "Mumbai",
+    "area": "Andheri"
+  },
+  {
+    "name": "Mumbai_Bandra_Store",
+    "latitude": 19.106,
+    "longitude": 72.8527,
+    "city": "Mumbai",
+    "area": "Bandra"
+  },
+  {
+    "name": "Mumbai_Dadar_Store",
+    "latitude": 19.05,
+    "longitude": 72.9057,
+    "city": "Mumbai",
+    "area": "Dadar"
+  },
+  {
+    "name": "Mumbai_Powai_Store",
+    "latitude": 19.121,
+    "longitude": 72.9107,
+    "city": "Mumbai",
+    "area": "Powai"
+  },
+  {
+    "name": "Mumbai_Borivali_Store",
+    "latitude": 19.036,
+    "longitude": 72.8427,
+    "city": "Mumbai",
+    "area": "Borivali"
+  },
+  {
+    "name": "Mumbai_Colaba_Store",
+    "latitude": 19.091,
+    "longitude": 72.9297,
+    "city": "Mumbai",
+    "area": "Colaba"
+  },
+  {
+    "name": "Delhi_Connaught_Place_Store",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "city": "Delhi",
+    "area": "Connaught Place"
+  },
+  {
+    "name": "Delhi_Saket_Store",
+    "latitude": 28.6439,
+    "longitude": 77.184,
+    "city": "Delhi",
+    "area": "Saket"
+  },
+  {
+    "name": "Delhi_Rohini_Store",
+    "latitude": 28.5879,
+    "longitude": 77.237,
+    "city": "Delhi",
+    "area": "Rohini"
+  },
+  {
+    "name": "Delhi_Dwarka_Store",
+    "latitude": 28.6589,
+    "longitude": 77.242,
+    "city": "Delhi",
+    "area": "Dwarka"
+  },
+  {
+    "name": "Delhi_Karol_Bagh_Store",
+    "latitude": 28.5739,
+    "longitude": 77.174,
+    "city": "Delhi",
+    "area": "Karol Bagh"
+  },
+  {
+    "name": "Delhi_Lajpat_Nagar_Store",
+    "latitude": 28.6289,
+    "longitude": 77.261,
+    "city": "Delhi",
+    "area": "Lajpat Nagar"
+  },
+  {
+    "name": "Bengaluru_Indiranagar_Store",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "city": "Bengaluru",
+    "area": "Indiranagar"
+  },
+  {
+    "name": "Bengaluru_Koramangala_Store",
+    "latitude": 13.0016,
+    "longitude": 77.5696,
+    "city": "Bengaluru",
+    "area": "Koramangala"
+  },
+  {
+    "name": "Bengaluru_Whitefield_Store",
+    "latitude": 12.9456,
+    "longitude": 77.6226,
+    "city": "Bengaluru",
+    "area": "Whitefield"
+  },
+  {
+    "name": "Bengaluru_Jayanagar_Store",
+    "latitude": 13.0166,
+    "longitude": 77.6276,
+    "city": "Bengaluru",
+    "area": "Jayanagar"
+  },
+  {
+    "name": "Bengaluru_Hebbal_Store",
+    "latitude": 12.9316,
+    "longitude": 77.5596,
+    "city": "Bengaluru",
+    "area": "Hebbal"
+  },
+  {
+    "name": "Bengaluru_Electronic_City_Store",
+    "latitude": 12.9866,
+    "longitude": 77.6466,
+    "city": "Bengaluru",
+    "area": "Electronic City"
+  },
+  {
+    "name": "Chennai_T_Nagar_Store",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "city": "Chennai",
+    "area": "T Nagar"
+  },
+  {
+    "name": "Chennai_Adyar_Store",
+    "latitude": 13.1127,
+    "longitude": 80.2457,
+    "city": "Chennai",
+    "area": "Adyar"
+  },
+  {
+    "name": "Chennai_Velachery_Store",
+    "latitude": 13.0567,
+    "longitude": 80.2987,
+    "city": "Chennai",
+    "area": "Velachery"
+  },
+  {
+    "name": "Chennai_Anna_Nagar_Store",
+    "latitude": 13.1277,
+    "longitude": 80.3037,
+    "city": "Chennai",
+    "area": "Anna Nagar"
+  },
+  {
+    "name": "Chennai_Guindy_Store",
+    "latitude": 13.0427,
+    "longitude": 80.2357,
+    "city": "Chennai",
+    "area": "Guindy"
+  },
+  {
+    "name": "Chennai_Mylapore_Store",
+    "latitude": 13.0977,
+    "longitude": 80.3227,
+    "city": "Chennai",
+    "area": "Mylapore"
+  },
+  {
+    "name": "Hyderabad_Banjara_Hills_Store",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "city": "Hyderabad",
+    "area": "Banjara Hills"
+  },
+  {
+    "name": "Hyderabad_Hitech_City_Store",
+    "latitude": 17.415,
+    "longitude": 78.4617,
+    "city": "Hyderabad",
+    "area": "Hitech City"
+  },
+  {
+    "name": "Hyderabad_Secunderabad_Store",
+    "latitude": 17.359,
+    "longitude": 78.5147,
+    "city": "Hyderabad",
+    "area": "Secunderabad"
+  },
+  {
+    "name": "Hyderabad_Gachibowli_Store",
+    "latitude": 17.43,
+    "longitude": 78.5197,
+    "city": "Hyderabad",
+    "area": "Gachibowli"
+  },
+  {
+    "name": "Hyderabad_Kukatpally_Store",
+    "latitude": 17.345,
+    "longitude": 78.4517,
+    "city": "Hyderabad",
+    "area": "Kukatpally"
+  },
+  {
+    "name": "Hyderabad_Charminar_Store",
+    "latitude": 17.4,
+    "longitude": 78.5387,
+    "city": "Hyderabad",
+    "area": "Charminar"
+  },
+  {
+    "name": "Kolkata_Park_Street_Store",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "city": "Kolkata",
+    "area": "Park Street"
+  },
+  {
+    "name": "Kolkata_Salt_Lake_Store",
+    "latitude": 22.6026,
+    "longitude": 88.3389,
+    "city": "Kolkata",
+    "area": "Salt Lake"
+  },
+  {
+    "name": "Kolkata_Howrah_Store",
+    "latitude": 22.5466,
+    "longitude": 88.3919,
+    "city": "Kolkata",
+    "area": "Howrah"
+  },
+  {
+    "name": "Kolkata_New_Town_Store",
+    "latitude": 22.6176,
+    "longitude": 88.3969,
+    "city": "Kolkata",
+    "area": "New Town"
+  },
+  {
+    "name": "Kolkata_Ballygunge_Store",
+    "latitude": 22.5326,
+    "longitude": 88.3289,
+    "city": "Kolkata",
+    "area": "Ballygunge"
+  },
+  {
+    "name": "Kolkata_Dum_Dum_Store",
+    "latitude": 22.5876,
+    "longitude": 88.4159,
+    "city": "Kolkata",
+    "area": "Dum Dum"
+  },
+  {
+    "name": "Pune_Koregaon_Park_Store",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "city": "Pune",
+    "area": "Koregaon Park"
+  },
+  {
+    "name": "Pune_Hinjewadi_Store",
+    "latitude": 18.5504,
+    "longitude": 73.8317,
+    "city": "Pune",
+    "area": "Hinjewadi"
+  },
+  {
+    "name": "Pune_Baner_Store",
+    "latitude": 18.4944,
+    "longitude": 73.8847,
+    "city": "Pune",
+    "area": "Baner"
+  },
+  {
+    "name": "Pune_Kothrud_Store",
+    "latitude": 18.5654,
+    "longitude": 73.8897,
+    "city": "Pune",
+    "area": "Kothrud"
+  },
+  {
+    "name": "Pune_Viman_Nagar_Store",
+    "latitude": 18.4804,
+    "longitude": 73.8217,
+    "city": "Pune",
+    "area": "Viman Nagar"
+  },
+  {
+    "name": "Pune_Hadapsar_Store",
+    "latitude": 18.5354,
+    "longitude": 73.9087,
+    "city": "Pune",
+    "area": "Hadapsar"
+  },
+  {
+    "name": "Jaipur_C_Scheme_Store",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "city": "Jaipur",
+    "area": "C Scheme"
+  },
+  {
+    "name": "Jaipur_Mansarovar_Store",
+    "latitude": 26.9424,
+    "longitude": 75.7623,
+    "city": "Jaipur",
+    "area": "Mansarovar"
+  },
+  {
+    "name": "Jaipur_Malviya_Nagar_Store",
+    "latitude": 26.8864,
+    "longitude": 75.8153,
+    "city": "Jaipur",
+    "area": "Malviya Nagar"
+  },
+  {
+    "name": "Jaipur_Vaishali_Nagar_Store",
+    "latitude": 26.9574,
+    "longitude": 75.8203,
+    "city": "Jaipur",
+    "area": "Vaishali Nagar"
+  },
+  {
+    "name": "Jaipur_Tonk_Road_Store",
+    "latitude": 26.8724,
+    "longitude": 75.7523,
+    "city": "Jaipur",
+    "area": "Tonk Road"
+  },
+  {
+    "name": "Jaipur_Bani_Park_Store",
+    "latitude": 26.9274,
+    "longitude": 75.8393,
+    "city": "Jaipur",
+    "area": "Bani Park"
+  },
+  {
+    "name": "Surat_Adajan_Store",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "city": "Surat",
+    "area": "Adajan"
+  },
+  {
+    "name": "Surat_Vesu_Store",
+    "latitude": 21.2002,
+    "longitude": 72.8061,
+    "city": "Surat",
+    "area": "Vesu"
+  },
+  {
+    "name": "Surat_Varachha_Store",
+    "latitude": 21.1442,
+    "longitude": 72.8591,
+    "city": "Surat",
+    "area": "Varachha"
+  },
+  {
+    "name": "Surat_Ring_Road_Store",
+    "latitude": 21.2152,
+    "longitude": 72.8641,
+    "city": "Surat",
+    "area": "Ring Road"
+  },
+  {
+    "name": "Surat_Katargam_Store",
+    "latitude": 21.1302,
+    "longitude": 72.7961,
+    "city": "Surat",
+    "area": "Katargam"
+  },
+  {
+    "name": "Surat_Udhna_Store",
+    "latitude": 21.1852,
+    "longitude": 72.8831,
+    "city": "Surat",
+    "area": "Udhna"
+  },
+  {
+    "name": "Lucknow_Hazratganj_Store",
+    "latitude": 26.8467,
+    "longitude": 80.9462,
+    "city": "Lucknow",
+    "area": "Hazratganj"
+  },
+  {
+    "name": "Lucknow_Gomti_Nagar_Store",
+    "latitude": 26.8767,
+    "longitude": 80.9212,
+    "city": "Lucknow",
+    "area": "Gomti Nagar"
+  },
+  {
+    "name": "Lucknow_Aliganj_Store",
+    "latitude": 26.8207,
+    "longitude": 80.9742,
+    "city": "Lucknow",
+    "area": "Aliganj"
+  },
+  {
+    "name": "Lucknow_Indira_Nagar_Store",
+    "latitude": 26.8917,
+    "longitude": 80.9792,
+    "city": "Lucknow",
+    "area": "Indira Nagar"
+  },
+  {
+    "name": "Lucknow_Aminabad_Store",
+    "latitude": 26.8067,
+    "longitude": 80.9112,
+    "city": "Lucknow",
+    "area": "Aminabad"
+  },
+  {
+    "name": "Lucknow_Charbagh_Store",
+    "latitude": 26.8617,
+    "longitude": 80.9982,
+    "city": "Lucknow",
+    "area": "Charbagh"
+  },
+  {
+    "name": "Kanpur_Swaroop_Nagar_Store",
+    "latitude": 26.4499,
+    "longitude": 80.3319,
+    "city": "Kanpur",
+    "area": "Swaroop Nagar"
+  },
+  {
+    "name": "Kanpur_Kakadeo_Store",
+    "latitude": 26.4799,
+    "longitude": 80.3069,
+    "city": "Kanpur",
+    "area": "Kakadeo"
+  },
+  {
+    "name": "Kanpur_Civil_Lines_Store",
+    "latitude": 26.4239,
+    "longitude": 80.3599,
+    "city": "Kanpur",
+    "area": "Civil Lines"
+  },
+  {
+    "name": "Kanpur_Kidwai_Nagar_Store",
+    "latitude": 26.4949,
+    "longitude": 80.3649,
+    "city": "Kanpur",
+    "area": "Kidwai Nagar"
+  },
+  {
+    "name": "Kanpur_Govind_Nagar_Store",
+    "latitude": 26.4099,
+    "longitude": 80.2969,
+    "city": "Kanpur",
+    "area": "Govind Nagar"
+  },
+  {
+    "name": "Kanpur_Mall_Road_Store",
+    "latitude": 26.4649,
+    "longitude": 80.3839,
+    "city": "Kanpur",
+    "area": "Mall Road"
+  },
+  {
+    "name": "Nagpur_Sitabuldi_Store",
+    "latitude": 21.1458,
+    "longitude": 79.0882,
+    "city": "Nagpur",
+    "area": "Sitabuldi"
+  },
+  {
+    "name": "Nagpur_Dharampeth_Store",
+    "latitude": 21.1758,
+    "longitude": 79.0632,
+    "city": "Nagpur",
+    "area": "Dharampeth"
+  },
+  {
+    "name": "Nagpur_Mahal_Store",
+    "latitude": 21.1198,
+    "longitude": 79.1162,
+    "city": "Nagpur",
+    "area": "Mahal"
+  },
+  {
+    "name": "Nagpur_Manish_Nagar_Store",
+    "latitude": 21.1908,
+    "longitude": 79.1212,
+    "city": "Nagpur",
+    "area": "Manish Nagar"
+  },
+  {
+    "name": "Nagpur_Sadar_Store",
+    "latitude": 21.1058,
+    "longitude": 79.0532,
+    "city": "Nagpur",
+    "area": "Sadar"
+  },
+  {
+    "name": "Nagpur_Hingna_Store",
+    "latitude": 21.1608,
+    "longitude": 79.1402,
+    "city": "Nagpur",
+    "area": "Hingna"
+  },
+  {
+    "name": "Indore_Vijay_Nagar_Store",
+    "latitude": 22.7196,
+    "longitude": 75.8577,
+    "city": "Indore",
+    "area": "Vijay Nagar"
+  },
+  {
+    "name": "Indore_Palasia_Store",
+    "latitude": 22.7496,
+    "longitude": 75.8327,
+    "city": "Indore",
+    "area": "Palasia"
+  },
+  {
+    "name": "Indore_Rau_Store",
+    "latitude": 22.6936,
+    "longitude": 75.8857,
+    "city": "Indore",
+    "area": "Rau"
+  },
+  {
+    "name": "Indore_Rajwada_Store",
+    "latitude": 22.7646,
+    "longitude": 75.8907,
+    "city": "Indore",
+    "area": "Rajwada"
+  },
+  {
+    "name": "Indore_Bhawarkua_Store",
+    "latitude": 22.6796,
+    "longitude": 75.8227,
+    "city": "Indore",
+    "area": "Bhawarkua"
+  },
+  {
+    "name": "Indore_Scheme_78_Store",
+    "latitude": 22.7346,
+    "longitude": 75.9097,
+    "city": "Indore",
+    "area": "Scheme 78"
+  },
+  {
+    "name": "Bhopal_MP_Nagar_Store",
+    "latitude": 23.2599,
+    "longitude": 77.4126,
+    "city": "Bhopal",
+    "area": "MP Nagar"
+  },
+  {
+    "name": "Bhopal_New_Market_Store",
+    "latitude": 23.2899,
+    "longitude": 77.3876,
+    "city": "Bhopal",
+    "area": "New Market"
+  },
+  {
+    "name": "Bhopal_Arera_Colony_Store",
+    "latitude": 23.2339,
+    "longitude": 77.4406,
+    "city": "Bhopal",
+    "area": "Arera Colony"
+  },
+  {
+    "name": "Bhopal_Kolar_Road_Store",
+    "latitude": 23.3049,
+    "longitude": 77.4456,
+    "city": "Bhopal",
+    "area": "Kolar Road"
+  },
+  {
+    "name": "Bhopal_Bairagarh_Store",
+    "latitude": 23.2199,
+    "longitude": 77.3776,
+    "city": "Bhopal",
+    "area": "Bairagarh"
+  },
+  {
+    "name": "Bhopal_Shahpura_Store",
+    "latitude": 23.2749,
+    "longitude": 77.4646,
+    "city": "Bhopal",
+    "area": "Shahpura"
+  },
+  {
+    "name": "Patna_Boring_Road_Store",
+    "latitude": 25.5941,
+    "longitude": 85.1376,
+    "city": "Patna",
+    "area": "Boring Road"
+  },
+  {
+    "name": "Patna_Kankarbagh_Store",
+    "latitude": 25.6241,
+    "longitude": 85.1126,
+    "city": "Patna",
+    "area": "Kankarbagh"
+  },
+  {
+    "name": "Patna_Patliputra_Store",
+    "latitude": 25.5681,
+    "longitude": 85.1656,
+    "city": "Patna",
+    "area": "Patliputra"
+  },
+  {
+    "name": "Patna_Fraser_Road_Store",
+    "latitude": 25.6391,
+    "longitude": 85.1706,
+    "city": "Patna",
+    "area": "Fraser Road"
+  },
+  {
+    "name": "Patna_Bailey_Road_Store",
+    "latitude": 25.5541,
+    "longitude": 85.1026,
+    "city": "Patna",
+    "area": "Bailey Road"
+  },
+  {
+    "name": "Patna_Danapur_Store",
+    "latitude": 25.6091,
+    "longitude": 85.1896,
+    "city": "Patna",
+    "area": "Danapur"
+  },
+  {
+    "name": "Kochi_Edappally_Store",
+    "latitude": 9.9312,
+    "longitude": 76.2673,
+    "city": "Kochi",
+    "area": "Edappally"
+  },
+  {
+    "name": "Kochi_Kakkanad_Store",
+    "latitude": 9.9612,
+    "longitude": 76.2423,
+    "city": "Kochi",
+    "area": "Kakkanad"
+  },
+  {
+    "name": "Kochi_Fort_Kochi_Store",
+    "latitude": 9.9052,
+    "longitude": 76.2953,
+    "city": "Kochi",
+    "area": "Fort Kochi"
+  },
+  {
+    "name": "Kochi_MG_Road_Store",
+    "latitude": 9.9762,
+    "longitude": 76.3003,
+    "city": "Kochi",
+    "area": "MG Road"
+  },
+  {
+    "name": "Kochi_Vyttila_Store",
+    "latitude": 9.8912,
+    "longitude": 76.2323,
+    "city": "Kochi",
+    "area": "Vyttila"
+  },
+  {
+    "name": "Kochi_Panampilly_Nagar_Store",
+    "latitude": 9.9462,
+    "longitude": 76.3193,
+    "city": "Kochi",
+    "area": "Panampilly Nagar"
+  },
+  {
+    "name": "Coimbatore_RS_Puram_Store",
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "city": "Coimbatore",
+    "area": "RS Puram"
+  },
+  {
+    "name": "Coimbatore_Gandhipuram_Store",
+    "latitude": 11.0468,
+    "longitude": 76.9308,
+    "city": "Coimbatore",
+    "area": "Gandhipuram"
+  },
+  {
+    "name": "Coimbatore_Peelamedu_Store",
+    "latitude": 10.9908,
+    "longitude": 76.9838,
+    "city": "Coimbatore",
+    "area": "Peelamedu"
+  },
+  {
+    "name": "Coimbatore_Saibaba_Colony_Store",
+    "latitude": 11.0618,
+    "longitude": 76.9888,
+    "city": "Coimbatore",
+    "area": "Saibaba Colony"
+  },
+  {
+    "name": "Coimbatore_Singanallur_Store",
+    "latitude": 10.9768,
+    "longitude": 76.9208,
+    "city": "Coimbatore",
+    "area": "Singanallur"
+  },
+  {
+    "name": "Coimbatore_Town_Hall_Store",
+    "latitude": 11.0318,
+    "longitude": 77.0078,
+    "city": "Coimbatore",
+    "area": "Town Hall"
+  },
+  {
+    "name": "Visakhapatnam_Dwaraka_Nagar_Store",
+    "latitude": 17.6868,
+    "longitude": 83.2185,
+    "city": "Visakhapatnam",
+    "area": "Dwaraka Nagar"
+  },
+  {
+    "name": "Visakhapatnam_MVP_Colony_Store",
+    "latitude": 17.7168,
+    "longitude": 83.1935,
+    "city": "Visakhapatnam",
+    "area": "MVP Colony"
+  },
+  {
+    "name": "Visakhapatnam_Gajuwaka_Store",
+    "latitude": 17.6608,
+    "longitude": 83.2465,
+    "city": "Visakhapatnam",
+    "area": "Gajuwaka"
+  },
+  {
+    "name": "Visakhapatnam_Madhurawada_Store",
+    "latitude": 17.7318,
+    "longitude": 83.2515,
+    "city": "Visakhapatnam",
+    "area": "Madhurawada"
+  },
+  {
+    "name": "Visakhapatnam_Beach_Road_Store",
+    "latitude": 17.6468,
+    "longitude": 83.1835,
+    "city": "Visakhapatnam",
+    "area": "Beach Road"
+  },
+  {
+    "name": "Visakhapatnam_Akkayyapalem_Store",
+    "latitude": 17.7018,
+    "longitude": 83.2705,
+    "city": "Visakhapatnam",
+    "area": "Akkayyapalem"
+  },
+  {
+    "name": "Chandigarh_Sector_17_Store",
+    "latitude": 30.7333,
+    "longitude": 76.7794,
+    "city": "Chandigarh",
+    "area": "Sector 17"
+  },
+  {
+    "name": "Chandigarh_Sector_22_Store",
+    "latitude": 30.7633,
+    "longitude": 76.7544,
+    "city": "Chandigarh",
+    "area": "Sector 22"
+  },
+  {
+    "name": "Chandigarh_Sector_35_Store",
+    "latitude": 30.7073,
+    "longitude": 76.8074,
+    "city": "Chandigarh",
+    "area": "Sector 35"
+  },
+  {
+    "name": "Chandigarh_Manimajra_Store",
+    "latitude": 30.7783,
+    "longitude": 76.8124,
+    "city": "Chandigarh",
+    "area": "Manimajra"
+  },
+  {
+    "name": "Chandigarh_Industrial_Area_Store",
+    "latitude": 30.6933,
+    "longitude": 76.7444,
+    "city": "Chandigarh",
+    "area": "Industrial Area"
+  },
+  {
+    "name": "Chandigarh_Zirakpur_Store",
+    "latitude": 30.7483,
+    "longitude": 76.8314,
+    "city": "Chandigarh",
+    "area": "Zirakpur"
+  },
+  {
+    "name": "Guwahati_Paltan_Bazaar_Store",
+    "latitude": 26.1445,
+    "longitude": 91.7362,
+    "city": "Guwahati",
+    "area": "Paltan Bazaar"
+  },
+  {
+    "name": "Guwahati_Dispur_Store",
+    "latitude": 26.1745,
+    "longitude": 91.7112,
+    "city": "Guwahati",
+    "area": "Dispur"
+  },
+  {
+    "name": "Guwahati_Ganeshguri_Store",
+    "latitude": 26.1185,
+    "longitude": 91.7642,
+    "city": "Guwahati",
+    "area": "Ganeshguri"
+  },
+  {
+    "name": "Guwahati_Beltola_Store",
+    "latitude": 26.1895,
+    "longitude": 91.7692,
+    "city": "Guwahati",
+    "area": "Beltola"
+  },
+  {
+    "name": "Guwahati_Fancy_Bazaar_Store",
+    "latitude": 26.1045,
+    "longitude": 91.7012,
+    "city": "Guwahati",
+    "area": "Fancy Bazaar"
+  },
+  {
+    "name": "Guwahati_Six_Mile_Store",
+    "latitude": 26.1595,
+    "longitude": 91.7882,
+    "city": "Guwahati",
+    "area": "Six Mile"
+  }
+]

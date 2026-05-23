@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Route Prediction Dashboard</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="/app/styles.css?v=1.0.3">
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <div>
+          <p class="eyebrow">AI Route Prediction</p>
+          <h1>Dispatch planner</h1>
+        </div>
+
+        <nav class="tabs" aria-label="Planner views">
+          <button class="tab active" data-tab="daily" type="button">Daily</button>
+          <button class="tab" data-tab="weekly" type="button">Weekly</button>
+          <button class="tab" data-tab="system" type="button">System</button>
+        </nav>
+
+        <div class="theme-toggle-container">
+          <div class="theme-switch">
+            <button type="button" id="themeLight" class="theme-btn active" title="Light Mode">☀️ Light</button>
+            <button type="button" id="themeDark" class="theme-btn" title="Dark Mode">🌙 Dark</button>
+          </div>
+        </div>
+
+        <div class="status-strip">
+          <span id="apiDot" class="dot"></span>
+          <span id="apiStatus">Checking API</span>
+        </div>
+
+        <dl class="sidebar-stats">
+          <div>
+            <dt>Drivers</dt>
+            <dd id="driverCount">-</dd>
+          </div>
+          <div>
+            <dt>Locations</dt>
+            <dd id="locationCount">-</dd>
+          </div>
+          <div>
+            <dt>Models</dt>
+            <dd id="modelState">-</dd>
+          </div>
+        </dl>
+      </aside>
+
+      <main>
+        <section class="view active" id="dailyView">
+          <div class="topbar">
+            <div>
+              <p class="eyebrow">Daily optimizer</p>
+              <h2>Build today&apos;s best stop order</h2>
+            </div>
+            <button id="sampleDaily" class="ghost" type="button">Load sample</button>
+          </div>
+
+          <div class="workgrid">
+            <form id="dailyForm" class="panel">
+              <label>
+                Driver
+                <select id="dailyDriver" required></select>
+              </label>
+              <label>
+                Date
+                <input id="dailyDate" type="date" required>
+              </label>
+              <label>
+                Search locations
+                <input id="locationSearch" type="search" placeholder="Type a store or area">
+              </label>
+              <label>
+                City
+                <select id="citySelect"></select>
+              </label>
+              <div class="pick-header">
+                <span>Stops</span>
+                <span>
+                  <button id="selectCity" class="link-button" type="button">All city</button>
+                  <button id="clearStops" class="link-button" type="button">Clear</button>
+                </span>
+              </div>
+              <div id="locationPicker" class="location-picker" aria-label="Location picker"></div>
+              <button class="primary" type="submit">Predict route</button>
+            </form>
+
+            <section class="panel result-panel">
+              <div class="metric-row">
+                <div>
+                  <span>Total time</span>
+                  <strong id="dailyTime">-</strong>
+                </div>
+                <div>
+                  <span>Distance</span>
+                  <strong id="dailyDistance">-</strong>
+                </div>
+                <div>
+                  <span>Confidence</span>
+                  <strong id="dailyConfidence">-</strong>
+                </div>
+                <div>
+                  <span>Map source</span>
+                  <strong id="mapSource">-</strong>
+                </div>
+              </div>
+              <div class="map-wrap">
+                <div id="routeMap" aria-label="Live city route map"></div>
+                <div class="map-actions">
+                  <button id="fitCity" class="ghost compact" type="button">City</button>
+                  <button id="fitRoute" class="ghost compact" type="button">Route</button>
+                  <button id="playTaxi" class="primary compact" type="button">Live run</button>
+                </div>
+              </div>
+              <div id="dailyRoute" class="route-list"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="weeklyView">
+          <div class="topbar">
+            <div>
+              <p class="eyebrow">Weekly scheduler</p>
+              <h2>Balance a five day field plan</h2>
+            </div>
+          </div>
+
+          <div class="workgrid weekly-grid">
+            <form id="weeklyForm" class="panel">
+              <label>
+                Driver
+                <select id="weeklyDriver" required></select>
+              </label>
+              <label>
+                ISO week
+                <input id="weeklyWeek" type="text" pattern="\d{4}-W\d{2}" placeholder="e.g. 2026-W21" required>
+              </label>
+              <button class="primary" type="submit">Generate week</button>
+            </form>
+            <section id="weeklyResult" class="weekly-result"></section>
+          </div>
+        </section>
+
+        <section class="view" id="systemView">
+          <div class="topbar">
+            <div>
+              <p class="eyebrow">System monitor</p>
+              <h2>API, model, and cache status</h2>
+            </div>
+            <button id="refreshSystem" class="ghost" type="button">Refresh</button>
+          </div>
+          
+          <div class="benefits-panel">
+            <div class="topbar">
+              <div>
+                <p class="eyebrow">Business scenario</p>
+                <h3>Route Optimization Benefits</h3>
+              </div>
+            </div>
+            <div class="benefits-grid">
+              <div class="benefit-card">
+                <h4>💰 Fuel Cost Reduction</h4>
+                <p class="benefit-desc">AI-optimized routes minimize distance traveled</p>
+                <p class="benefit-metric" id="fuelMetric">Calculating...</p>
+              </div>
+              <div class="benefit-card">
+                <h4>⏱️ Travel Time Optimization</h4>
+                <p class="benefit-desc">Efficient stop sequencing reduces drive time</p>
+                <p class="benefit-metric" id="timeMetric">Calculating...</p>
+              </div>
+              <div class="benefit-card">
+                <h4>📍 Missed Visit Prevention</h4>
+                <p class="benefit-desc">Historical pattern matching improves accuracy</p>
+                <p class="benefit-metric" id="confidenceMetric">Calculating...</p>
+              </div>
+              <div class="benefit-card">
+                <h4>⚖️ Workload Balancing</h4>
+                <p class="benefit-desc">Even distribution of stops across drivers</p>
+                <p class="benefit-metric" id="balanceMetric">Calculating...</p>
+              </div>
+            </div>
+          </div>
+
+          <div id="systemOutput" class="json-panel"></div>
+        </section>
+      </main>
+    </div>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="/app/script.js?v=1.0.3"></script>
+  </body>
+</html>

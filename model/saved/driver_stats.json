@@ -1,0 +1,86 @@
+{
+  "D1": {
+    "avg_speed": 32.0,
+    "avg_stops": 7.701935483870968,
+    "avg_dist": 24.625793548387097,
+    "efficiency": 0.92,
+    "avg_visit_dur": 27.566451612903226
+  },
+  "D10": {
+    "avg_speed": 26.0,
+    "avg_stops": 5.932203389830509,
+    "avg_dist": 556.5345762711864,
+    "efficiency": 0.8,
+    "avg_visit_dur": 26.75423728813559
+  },
+  "D11": {
+    "avg_speed": 34.0,
+    "avg_stops": 8.578826237054086,
+    "avg_dist": 553.1274108170311,
+    "efficiency": 0.93,
+    "avg_visit_dur": 27.86651323360184
+  },
+  "D12": {
+    "avg_speed": 28.0,
+    "avg_stops": 6.595744680851064,
+    "avg_dist": 696.4556838905776,
+    "efficiency": 0.84,
+    "avg_visit_dur": 27.559270516717326
+  },
+  "D2": {
+    "avg_speed": 28.0,
+    "avg_stops": 6.654135338345864,
+    "avg_dist": 638.3217744360902,
+    "efficiency": 0.85,
+    "avg_visit_dur": 28.2
+  },
+  "D3": {
+    "avg_speed": 35.0,
+    "avg_stops": 8.650285714285713,
+    "avg_dist": 646.5723314285715,
+    "efficiency": 0.95,
+    "avg_visit_dur": 27.428571428571427
+  },
+  "D4": {
+    "avg_speed": 25.0,
+    "avg_stops": 5.602888086642599,
+    "avg_dist": 630.3236642599278,
+    "efficiency": 0.78,
+    "avg_visit_dur": 27.40072202166065
+  },
+  "D5": {
+    "avg_speed": 30.0,
+    "avg_stops": 7.712820512820513,
+    "avg_dist": 699.0640512820512,
+    "efficiency": 0.88,
+    "avg_visit_dur": 27.496153846153845
+  },
+  "D6": {
+    "avg_speed": 27.0,
+    "avg_stops": 6.722388059701492,
+    "avg_dist": 620.9137014925373,
+    "efficiency": 0.82,
+    "avg_visit_dur": 27.823880597014924
+  },
+  "D7": {
+    "avg_speed": 33.0,
+    "avg_stops": 8.671607753705816,
+    "avg_dist": 606.9509007981756,
+    "efficiency": 0.91,
+    "avg_visit_dur": 26.936145952109463
+  },
+  "D8": {
+    "avg_speed": 29.0,
+    "avg_stops": 6.683109118086697,
+    "avg_dist": 557.1892974588939,
+    "efficiency": 0.86,
+    "avg_visit_dur": 26.9745889387145
+  },
+  "D9": {
+    "avg_speed": 31.0,
+    "avg_stops": 7.491413474240423,
+    "avg_dist": 556.9531175693527,
+    "efficiency": 0.89,
+    "avg_visit_dur": 26.72787318361955
+  }
+}
